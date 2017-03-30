@@ -10,7 +10,7 @@ LIS 2360:  Web Application Development
 (Allison McElyea)
 
 ### Project Description:
-(This assignment introduces us to jQuery framework that adds animation to JavaScript.)
+(https://github.com/alliemcelyea/lesson7_jquery)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
